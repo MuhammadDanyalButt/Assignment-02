@@ -5,7 +5,6 @@ import java.util.Scanner;
 class Guesser
 {
 	int guessNum;
-	
 	public int guessNumber()
 	{
 		Scanner scan=new Scanner(System.in);
@@ -22,7 +21,6 @@ class Guesser
 class Player
 {
 	int pguessNum;
-	
 	public int guessNumber()
 	{
 		Scanner scan=new Scanner(System.in);
